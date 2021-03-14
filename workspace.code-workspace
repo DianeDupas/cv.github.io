@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../test-numero1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2eme cv html"
+	}
+}
